@@ -1,5 +1,5 @@
 # log
-Personal logging from the command line. 
+Logging from the command line in the way that I prefer.
 
 Example:
 ```bash
